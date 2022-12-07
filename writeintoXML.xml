@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="17.0.1" class="java.beans.XMLDecoder">
+ <object class="org.bsuir.lab8.MyList">
+  <void method="add">
+   <string>Hello</string>
+  </void>
+  <void method="add">
+   <string>Bye</string>
+  </void>
+  <void method="add">
+   <string>Hello</string>
+  </void>
+  <void method="add">
+   <string>Hello</string>
+  </void>
+ </object>
+</java>
